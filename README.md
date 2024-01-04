@@ -6,4 +6,4 @@ about:profiles > root directory > open folder
 
 
 # add-ons
-tab center reborn
+tab center reborn > options > custom css > add txt content
